@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ene292/ene292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ene292/ene292** is a ✨ _special_ ✨ repository because its `https://github.com/ene292/ene292/releases` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
